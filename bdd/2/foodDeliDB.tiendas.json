@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "66edd33b04f9e9428482e6cf"
+  },
+  "direccion": "Calle Falsa 123",
+  "codigoPostal": "28001",
+  "localidad": "Madrid",
+  "provincia": "Madrid"
+},
+{
+  "_id": {
+    "$oid": "66edd37a04f9e9428482e6d0"
+  },
+  "direccion": "Avenida de la Constitución 456",
+  "codigoPostal": "41001",
+  "localidad": "Sevilla",
+  "provincia": "Sevilla"
+},
+{
+  "_id": {
+    "$oid": "66edd37a04f9e9428482e6d1"
+  },
+  "direccion": "Plaza Mayor 789",
+  "codigoPostal": "46001",
+  "localidad": "Valencia",
+  "provincia": "Valencia"
+}]

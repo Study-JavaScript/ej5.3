@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "66edd06604f9e9428482e6c9"
+  },
+  "nombre": "Pizza Margarita",
+  "descripcion": "Pizza clásica con tomate y mozzarella",
+  "imagen": "https://ejemplo.com/pizza_margarita.jpg",
+  "precio": 8.5,
+  "categoria": "pizza",
+  "categoriasPizza": [
+    "clásica",
+    "vegetariana"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66edd0af04f9e9428482e6cc"
+  },
+  "nombre": "Hamburguesa Clásica",
+  "descripcion": "Hamburguesa con lechuga, tomate y queso",
+  "imagen": "https://ejemplo.com/hamburguesa_clasica.jpg",
+  "precio": 6.99,
+  "categoria": "hamburguesa"
+},
+{
+  "_id": {
+    "$oid": "66edd0af04f9e9428482e6cd"
+  },
+  "nombre": "Coca Cola",
+  "descripcion": "Bebida gaseosa de cola",
+  "imagen": "https://ejemplo.com/coca_cola.jpg",
+  "precio": 1.5,
+  "categoria": "bebida"
+}]

@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "66edc2b604f9e9428482e6c4"
+  },
+  "nombre": "Juan",
+  "apellidos": "Pérez Martínez",
+  "direccion": "Avenida de la Constitución 45",
+  "codigoPostal": "41001",
+  "localidad": "Sevilla",
+  "provincia": "Sevilla",
+  "telefono": "954123456",
+  "email": "juan.perez@email.com",
+  "fechaRegistro": {
+    "$date": "2024-09-20T18:45:10.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66edc2b604f9e9428482e6c5"
+  },
+  "nombre": "Anna",
+  "apellidos": "López García",
+  "direccion": "Calle Gran Vía 67, 3º Derecha",
+  "codigoPostal": "08001",
+  "localidad": "Barcelona",
+  "provincia": "Barcelona",
+  "telefono": "934567890",
+  "email": "ana.lopez@email.com",
+  "fechaRegistro": {
+    "$date": "2024-09-20T18:45:10.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66edc2b604f9e9428482e6c6"
+  },
+  "nombre": "Carlos",
+  "apellidos": "Fernández Rodríguez",
+  "direccion": "Calle Portales 23",
+  "codigoPostal": "26001",
+  "localidad": "Logroño",
+  "provincia": "La Rioja",
+  "telefono": "941234567",
+  "email": "carlos.fernandez@email.com",
+  "fechaRegistro": {
+    "$date": "2024-09-20T18:45:10.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66edc2ce04f9e9428482e6c7"
+  },
+  "nombre": "María",
+  "apellidos": "González López",
+  "direccion": "Calle Mayor 123, 2º Izquierda",
+  "codigoPostal": "28001",
+  "localidad": "Madrid",
+  "provincia": "Madrid",
+  "telefono": "912345678",
+  "email": "maria.gonzalez@email.com",
+  "fechaRegistro": {
+    "$date": "2024-09-20T18:45:34.754Z"
+  }
+}]

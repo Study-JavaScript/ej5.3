@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "66ee56b946f029b2fc268679"
+  },
+  "email": "usuario@ejemplo.com",
+  "password": "contraseñaSegura123",
+  "usuario": "UsuarioEjemplo",
+  "nacimiento": {
+    "$date": "1990-01-01T00:00:00.000Z"
+  },
+  "sexo": "masculino",
+  "pais": "España",
+  "cp": "28001",
+  "createdAt": {
+    "$date": "2024-09-21T05:16:41.867Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-21T05:16:41.867Z"
+  },
+  "__v": 0
+}]

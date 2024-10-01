@@ -1,0 +1,1 @@
+[{"_id":{"$oid":"66ed933104f9e9428482e6a4"},"nombre":"Grefusa","direccion":{"calle":"Calle Dolores","numero":123,"piso":1,"puerta":"A","ciudad":"Ciudad Ejemplo","codigo_postal":"08198","pais":"País Ejemplo"},"telefono":"+34-123456789","fax":"+34-987654321","nif":"NIF123456"}]

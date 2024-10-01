@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "66ee56ba46f029b2fc26867e"
+  },
+  "titulo": "Video de Ejemplo",
+  "desc": "Este es un video de ejemplo",
+  "size": 52428800,
+  "file": "ejemplo.mp4",
+  "duracion": 300,
+  "thumbnail": "ejemplo-thumbnail.jpg",
+  "views": 0,
+  "likes": 0,
+  "dislikes": 0,
+  "status": "public",
+  "tags": [
+    "ejemplo",
+    "test"
+  ],
+  "canalId": {
+    "$oid": "66ee56ba46f029b2fc26867c"
+  },
+  "createdAt": {
+    "$date": "2024-09-21T05:16:42.006Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-21T05:16:42.006Z"
+  },
+  "__v": 0
+}]

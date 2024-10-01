@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "66edebbb04f9e9428482e6d8"
+  },
+  "idCliente": {
+    "$oid": "66edc2b604f9e9428482e6c4"
+  },
+  "idTienda": {
+    "$oid": "66edd37a04f9e9428482e6d1"
+  },
+  "entrega": {
+    "tipo": "domicilio",
+    "repartidorId": {
+      "$oid": "66edd8e604f9e9428482e6d4"
+    },
+    "fechaEntrega": {
+      "$date": "2024-09-20T14:30:00.000Z"
+    }
+  },
+  "productos": [
+    {
+      "productoId": {
+        "$oid": "66edd06604f9e9428482e6c9"
+      },
+      "cantidad": 2,
+      "precio": 8.5
+    },
+    {
+      "productoId": {
+        "$oid": "66edd0af04f9e9428482e6cc"
+      },
+      "cantidad": 1,
+      "precio": 6.99
+    }
+  ],
+  "precioTotal": 23.99,
+  "notaAdicional": "Entregar por la puerta trasera.",
+  "timestamp": {
+    "$date": "2024-09-20T21:40:11.408Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66edebbb04f9e9428482e6d9"
+  },
+  "idCliente": {
+    "$oid": "66edc2b604f9e9428482e6c5"
+  },
+  "idTienda": {
+    "$oid": "66edd37a04f9e9428482e6d0"
+  },
+  "entrega": {
+    "tipo": "recoger",
+    "fechaEntrega": {
+      "$date": "2024-09-20T15:00:00.000Z"
+    }
+  },
+  "productos": [
+    {
+      "productoId": {
+        "$oid": "66edd0af04f9e9428482e6cd"
+      },
+      "cantidad": 3,
+      "precio": 1.5
+    }
+  ],
+  "precioTotal": 4.5,
+  "timestamp": {
+    "$date": "2024-09-20T21:40:11.408Z"
+  }
+}]

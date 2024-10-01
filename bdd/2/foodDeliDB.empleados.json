@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "66edd8df04f9e9428482e6d3"
+  },
+  "nombre": "Juan",
+  "apellidos": "Pérez",
+  "NIF": "12345678A",
+  "telefono": "612345678",
+  "rol": "cocinero",
+  "idTienda": {
+    "$oid": "66edd37a04f9e9428482e6d1"
+  }
+},
+{
+  "_id": {
+    "$oid": "66edd8e604f9e9428482e6d4"
+  },
+  "nombre": "María",
+  "apellidos": "Gómez",
+  "NIF": "23456789B",
+  "telefono": "623456789",
+  "rol": "repartidor",
+  "idTienda": {
+    "$oid": "66edd37a04f9e9428482e6d0"
+  }
+},
+{
+  "_id": {
+    "$oid": "66edd8e604f9e9428482e6d5"
+  },
+  "nombre": "Pedro",
+  "apellidos": "López",
+  "NIF": "34567890C",
+  "telefono": "634567890",
+  "rol": "cocinero",
+  "idTienda": {
+    "$oid": "66edd33b04f9e9428482e6cf"
+  }
+}]
